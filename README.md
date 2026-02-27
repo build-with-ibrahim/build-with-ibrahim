@@ -1,85 +1,58 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ibrahim&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
-
 # Ibrahim
-### Full Stack Developer
 
-</div>
-
----
-
-## About Me
-
-I am a full stack developer focused on building scalable, performant and visually refined web applications.  
-I enjoy transforming ideas into production-ready digital products using modern technologies and clean architecture principles.
-
-Currently working on advanced backend systems, scalable SaaS architecture, and performance-driven frontend applications.
+Full Stack Developer
 
 ---
 
-## Technology Stack
+## About
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,git,github,docker" />
-
-</div>
+I build scalable web applications with clean architecture and performance-focused design.  
+My work centers around modern frontend systems, robust backend APIs, and production-ready deployments.
 
 ---
 
-## Development Focus
+## Tech Stack
 
-- Scalable backend architecture  
-- RESTful API design  
-- Authentication and authorization systems  
-- Responsive and minimal UI design  
-- Clean code and maintainable structure  
-- Performance optimization  
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
 
----
+**Backend**
+- Node.js
+- Express.js
 
-## GitHub Analytics
+**Database**
+- MongoDB
+- PostgreSQL
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=build-with-ibrahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-ibrahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=build-with-ibrahim&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
+**Tools**
+- Git
+- GitHub
+- Docker
+- Vercel
 
 ---
 
-## Current Objectives
+## What I Work On
 
-- Building production-grade SaaS applications  
-- Strengthening system design knowledge  
-- Contributing to meaningful open source projects  
-- Refining advanced full stack workflows  
-
----
-
-## Connect
-
-- GitHub: https://github.com/build-with-ibrahim  
-- Portfolio: Add your portfolio link  
-- LinkedIn: Add your LinkedIn link  
+- Scalable backend systems  
+- REST API development  
+- Authentication & authorization  
+- Responsive UI architecture  
+- Clean and maintainable codebases  
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-Building modern web systems with clarity, performance and precision.
+![Stats](https://github-readme-stats.vercel.app/api?username=build-with-ibrahim&show_icons=true&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-ibrahim&layout=compact&hide_border=true)
+
+---
+
+## Contact
+
+GitHub: https://github.com/build-with-ibrahim
