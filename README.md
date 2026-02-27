@@ -1,10 +1,13 @@
 # Ibrahim Ahmad 👋
+Full Stack Developer
 
-Full Stack Developer  
+---
 
 ## About Me
+I am a full stack developer who builds modern and scalable web applications.
 
-I am a full stack developer who builds modern and scalable web applications.  
+---
+
 
 ## Tech Stack
 HTML  
