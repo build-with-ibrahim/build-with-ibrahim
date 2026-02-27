@@ -1,58 +1,50 @@
-# Ibrahim
+# 👋 Hi, I'm Ibrahim Ahmad
 
-Full Stack Developer
-
----
-
-## About
-
-I build scalable web applications with clean architecture and performance-focused design.  
-My work centers around modern frontend systems, robust backend APIs, and production-ready deployments.
+💻 Full Stack Developer  
+🚀 Passionate Coder  
+🌱 Always Learning
 
 ---
 
-## Tech Stack
+## 🧑‍💻 About Me
 
-**Frontend**
+- 🔭 I build full stack web applications  
+- ⚡ I love clean UI & scalable backend  
+- 🛠️ Turning ideas into real-world products  
+- 📚 Currently improving my problem-solving skills  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
 - React
-- Next.js
-- TypeScript
-- Tailwind CSS
 
-**Backend**
+### Backend
 - Node.js
 - Express.js
 
-**Database**
+### Database
 - MongoDB
-- PostgreSQL
+- MySQL
 
-**Tools**
+### Tools
 - Git
 - GitHub
-- Docker
-- Vercel
+- VS Code
 
 ---
 
-## What I Work On
+## 📊 GitHub Stats
 
-- Scalable backend systems  
-- REST API development  
-- Authentication & authorization  
-- Responsive UI architecture  
-- Clean and maintainable codebases  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
 ---
 
-## GitHub Stats
+## 📫 Contact
 
-![Stats](https://github-readme-stats.vercel.app/api?username=build-with-ibrahim&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-ibrahim&layout=compact&hide_border=true)
-
----
-
-## Contact
-
-GitHub: https://github.com/build-with-ibrahim
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- Email: your-email@example.com
