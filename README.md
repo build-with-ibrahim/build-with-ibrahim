@@ -1,4 +1,4 @@
-# Hey 👋, I am Ibrahim Ahmad
+# Ibrahim Ahmad 👋
 
 Full Stack Developer  
 Passionate Coder
