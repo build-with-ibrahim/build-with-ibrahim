@@ -1,50 +1,44 @@
-# 👋 Hi, I'm Ibrahim Ahmad
+# Hi 👋 I am Ibrahim Ahmad
 
-💻 Full Stack Developer  
-🚀 Passionate Coder  
-🌱 Always Learning
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 I build full stack web applications  
-- ⚡ I love clean UI & scalable backend  
-- 🛠️ Turning ideas into real-world products  
-- 📚 Currently improving my problem-solving skills  
+Full Stack Developer  
+Passionate Coder
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+I am a full stack developer who builds modern and scalable web applications.  
+I enjoy creating clean user interfaces and efficient backend systems.  
+Currently improving my problem solving and system design skills.
+
+---
+
+## Tech Stack
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+HTML  
+CSS  
+JavaScript  
+React  
 
 ### Backend
-- Node.js
-- Express.js
+Node.js  
+Express.js  
 
 ### Database
-- MongoDB
-- MySQL
+MongoDB  
+MySQL  
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+Git  
+GitHub  
+VS Code  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-
 ---
 
-## 📫 Contact
+## Contact
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- Email: your-email@example.com
+GitHub: https://github.com/build-with-ibrahim  
+Email: buildwithibrahim@gmail.com
