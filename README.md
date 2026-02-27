@@ -13,21 +13,11 @@ Currently improving my problem solving and system design skills.
 ---
 
 ## Tech Stack
-
-### Frontend
 HTML  
 CSS  
 JavaScript  
 React  
-
-### Backend
 Node.js  
 Express.js  
-
-### Database
 MongoDB  
 MySQL
-
----
-
----
