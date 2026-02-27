@@ -1,7 +1,6 @@
 # Ibrahim Ahmad 👋
 
 Full Stack Developer  
-Passionate Coder
 
 ---
 
@@ -27,12 +26,7 @@ Express.js
 
 ### Database
 MongoDB  
-MySQL  
-
-### Tools
-Git  
-GitHub  
-VS Code  
+MySQL
 
 ---
 
