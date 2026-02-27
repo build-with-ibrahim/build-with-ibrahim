@@ -31,8 +31,3 @@ MySQL
 ---
 
 ---
-
-## Contact
-
-GitHub: https://github.com/build-with-ibrahim  
-Email: buildwithibrahim@gmail.com
