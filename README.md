@@ -1,92 +1,85 @@
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ibrahim&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+# Ibrahim
+### Full Stack Developer
+
+</div>
+
+---
+
+## About Me
+
+I am a full stack developer focused on building scalable, performant and visually refined web applications.  
+I enjoy transforming ideas into production-ready digital products using modern technologies and clean architecture principles.
+
+Currently working on advanced backend systems, scalable SaaS architecture, and performance-driven frontend applications.
+
+---
+
+## Technology Stack
 
 <div align="center">
 
-<h1 style="font-family: 'Orbitron', sans-serif; font-size:48px; letter-spacing:4px; color:#FF5C8A;">
-IBRAHIM
-</h1>
-
-<p style="font-family: 'Space Grotesk', sans-serif; font-size:18px; color:#7A5CFF;">
-FULL STACK DEVELOPER — DIGITAL SYSTEM ARCHITECT
-</p>
-
-<div style="height:6px; width:120px; background:#F4C95D; margin:20px auto;"></div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,git,github,docker" />
 
 </div>
 
 ---
 
-<div style="background:#F6E6D8; padding:20px; border:3px solid #111111;">
+## Development Focus
 
-<h2 style="font-family: 'Orbitron'; color:#2ED3B7;">PROFILE</h2>
+- Scalable backend architecture  
+- RESTful API design  
+- Authentication and authorization systems  
+- Responsive and minimal UI design  
+- Clean code and maintainable structure  
+- Performance optimization  
 
-<p style="font-family: 'Space Grotesk'; color:#111111;">
-Building colorful, high-performance web systems inspired by 90s digital culture.
-Structured layouts. Bold contrast. Modern engineering underneath retro aesthetics.
-</p>
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=build-with-ibrahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-ibrahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 ---
 
-<h2 style="font-family: 'Orbitron'; color:#FF5C8A;">TECH STACK</h2>
+## Contribution Activity
 
-<div style="display:flex; gap:40px;">
+<div align="center">
 
-<div>
-
-<strong style="color:#7A5CFF;">FRONTEND</strong>
-
-HTML  
-CSS  
-JavaScript  
-React  
-Next.js  
-Tailwind  
-
-</div>
-
-<div>
-
-<strong style="color:#2ED3B7;">BACKEND</strong>
-
-Node.js  
-Express  
-MongoDB  
-REST APIs  
-
-</div>
+<img src="https://streak-stats.demolab.com?user=build-with-ibrahim&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-<h2 style="font-family: 'Orbitron'; color:#F4C95D;">DESIGN PRINCIPLES</h2>
+## Current Objectives
 
-<div style="background:#7A5CFF; padding:15px; border:3px solid #111111; color:white; font-family:'Space Grotesk';">
-
-LAYOUT FIRST  
-CONTRAST HEAVY  
-NO CLUTTER  
-SYSTEM DRIVEN  
-PERFORMANCE OBSESSED  
-
-</div>
+- Building production-grade SaaS applications  
+- Strengthening system design knowledge  
+- Contributing to meaningful open source projects  
+- Refining advanced full stack workflows  
 
 ---
 
-<h2 style="font-family: 'Orbitron'; color:#2ED3B7;">STATS</h2>
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=build-with-ibrahim&show_icons=true&hide_border=true&title_color=FF5C8A&text_color=111111&icon_color=7A5CFF&bg_color=F6E6D8" height="170"/>
-</p>
+- GitHub: https://github.com/build-with-ibrahim  
+- Portfolio: Add your portfolio link  
+- LinkedIn: Add your LinkedIn link  
 
 ---
 
-<div align="center" style="margin-top:40px;">
+<div align="center">
 
-<span style="font-family:'Orbitron'; font-size:14px; letter-spacing:2px; color:#FF5C8A;">
-DIGITAL 1997 — REENGINEERED 2026
-</span>
+Building modern web systems with clarity, performance and precision.
 
 </div>
